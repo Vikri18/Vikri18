@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vikri18
-- 👀 I’m interested in Sofware and Mobile Programing
-- 🌱 I’m currently learning java, kotlin
+- 👀 I’m interested in Sofware, Mobile Programing, Robotics and IOT
 - 📫 How to reach me ig:@vikrifrediansyah
 
 <!---
